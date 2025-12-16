@@ -97,5 +97,5 @@ npm run preview
 ## Contributors
 
 - **Hari** – `harikrishnasharma@gmail.com`
-- **Aayush Jha** – `24bds002@iitdwd.ac.in`
+- **Aayush Jha** – `aayushjha2431@gmail.com`
 
